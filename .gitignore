@@ -1,0 +1,50 @@
+##############################
+# Python
+##############################
+__pycache__/
+*.py[cod]
+*$py.class
+
+##############################
+# Virtual environments
+##############################
+.venv/
+venv/
+env/
+ENV/
+
+##############################
+# Jupyter / notebooks (if you add later)
+##############################
+.ipynb_checkpoints/
+
+##############################
+# Environment / secrets
+##############################
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+
+##############################
+# Logs / local runtime files
+##############################
+*.log
+logs/
+
+##############################
+# OS / IDE
+##############################
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+##############################
+# Project-specific
+##############################
+# If db/userlist.json is real data, ignore it.
+# If it's intentionally a seed/sample, keep it tracked.
+# db/userlist.json

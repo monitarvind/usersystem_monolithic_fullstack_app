@@ -1,0 +1,118 @@
+{
+  "001": {
+    "name": "John smith",
+    "email": "js@gmail.com",
+    "married": false,
+    "weight": 80.0,
+    "allergy": [
+      "nuts"
+    ],
+    "phone": "1234567890",
+    "dob": "1992-12-21",
+    "linkedin_url": "https://linkedin.com/js",
+    "emergency_contact": 0,
+    "calculated_age": 33
+  },
+  "002": {
+    "name": "Merry john",
+    "email": "merry@hdfc.com",
+    "married": true,
+    "weight": 60.0,
+    "allergy": [
+      "dogs"
+    ],
+    "phone": "9876543210",
+    "dob": "1992-12-21",
+    "linkedin_url": "https://linkedin.com/merry_me",
+    "emergency_contact": 911,
+    "calculated_age": 33
+  },
+  "003": {
+    "name": "Richard",
+    "email": "rich@gmail.com",
+    "married": false,
+    "weight": 90.0,
+    "allergy": [
+      "bee",
+      "pollen"
+    ],
+    "phone": "1298235700",
+    "dob": "1990-12-21",
+    "linkedin_url": "https://faceexample.com/rich",
+    "emergency_contact": 700,
+    "calculated_age": 35
+  },
+  "004": {
+    "name": "Leo singh",
+    "email": "leo@gmail.com",
+    "married": true,
+    "weight": 80.0,
+    "allergy": [
+      "meat",
+      "petrol"
+    ],
+    "phone": "99887766550",
+    "dob": "1985-12-21",
+    "linkedin_url": "https://facemash.com/leonardo",
+    "emergency_contact": 404,
+    "calculated_age": 40
+  },
+  "005": {
+    "name": "Johnson raj",
+    "email": "jr@gmail.com",
+    "married": true,
+    "weight": 90.0,
+    "allergy": [
+      "Gluten",
+      "Shellfish"
+    ],
+    "phone": "9876543210",
+    "dob": "2016-12-01",
+    "linkedin_url": null,
+    "emergency_contact": 900,
+    "calculated_age": 9
+  },
+  "007": {
+    "name": "Lolla",
+    "email": "lol@hdfc.com",
+    "married": false,
+    "weight": 60.0,
+    "allergy": [
+      "Shellfish",
+      "Dairy"
+    ],
+    "phone": "",
+    "dob": "2016-01-02",
+    "linkedin_url": "https://linkedin.com/lol",
+    "emergency_contact": 600,
+    "calculated_age": 9
+  },
+  "006": {
+    "name": "Chowman",
+    "email": "chowman@gmail.com",
+    "married": true,
+    "weight": 54.0,
+    "allergy": [
+      "Shellfish"
+    ],
+    "phone": "998877665500",
+    "dob": "2024-12-04",
+    "linkedin_url": null,
+    "emergency_contact": null,
+    "calculated_age": 1
+  },
+  "008": {
+    "name": "Thowman",
+    "email": "thowman@gmail.com",
+    "married": true,
+    "weight": 57.0,
+    "allergy": [
+      "Shellfish"
+    ],
+    "phone": "9988776655",
+    "dob": "2024-12-04",
+    "linkedin_url": null,
+    "emergency_contact": null,
+    "calculated_age": 1
+  }
+}
